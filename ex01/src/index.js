@@ -3,7 +3,7 @@ var myPet = {
     species: "Pomeranian",
     name: "Zizou",
     legs: 4 ,
-    friends: "Paolo" "Kofi"
+    friends: "Paolo." + "Kofi"
     }
     function myFunction(myPet) {
     return myPet;
